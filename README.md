@@ -1,7 +1,11 @@
+<h4 align="center">
+ 
+![c633c20ede82f0e0ced7d570dbe3a1f3](https://miro.medium.com/max/3200/1*L_QoAG863l8QvqxpNyBiqw.gif)
+
 <div align="center">
   <a href="https://github.com/KnoxVII">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KnoxVII&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="141em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KnoxVII&layout=compact&langs_count=7&theme=radical"/>
+  <img height="156em" src="https://github-readme-stats.vercel.app/api?username=KnoxVII&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="156em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KnoxVII&layout=compact&langs_count=7&theme=radical"/>
 </div>
   
 <div style="display: inline_block"><br>
